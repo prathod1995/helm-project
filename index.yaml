@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  react-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-28T09:49:18.286736015Z"
+    description: A Helm chart for Kubernetes
+    digest: 59a4a60b66b428a7b66ecb14d21b0a8f7351a3aecd5d96705a7c54d3f41934ff
+    name: react-app
+    type: application
+    urls:
+    - https://github.com/prathod1995/helm-project.git/react-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-10-28T09:49:18.276157421Z"
