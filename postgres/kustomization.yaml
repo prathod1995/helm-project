@@ -1,0 +1,8 @@
+resources:
+- deployment.yaml
+- service.yaml
+- configmap.yaml
+- pvc.yaml
+patchesStrategicMerge:
+  - ../patch/deployment.yaml
+  - ../patch/pvc.yaml
